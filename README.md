@@ -4,7 +4,7 @@
 
 <h1 align="center"> ¡Hola! Soy Alyne 👋 </h1>
 <p align="center">
-  Desarrolladora en formación | Apasionada por la tecnología, el análisis de datos y la educación digital
+  Desarrolladora en formación | Me encanta crear experiencias digitales con código y diseño
 </p>
 
 ---
@@ -24,7 +24,6 @@
 
 
 <p align="left">
-   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angular.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" />
