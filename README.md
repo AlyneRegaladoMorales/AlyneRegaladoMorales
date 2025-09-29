@@ -47,12 +47,5 @@
 
 ---
 
-### 📊 Estadísticas  
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyne_regalado&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyne_regalado&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyne_regalado&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=alyne_regalado&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20en%20GitHub&disable_animations=true&theme=tokyonight) |
-
----
 
 
