@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 
-<!--
-**AlyneRegaladoMorales/AlyneRegaladoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> ¡Hola! Soy Alyne 👋 </h1>
+<p align="center">
+  Desarrolladora en formación | Apasionada por la tecnología, el análisis de datos y la educación digital
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👩‍💻 Sobre mí  
+
+<img width="55%" align="right" alt="Github Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Actualmente trabajando en proyectos de **desarrollo web frontend**.  
+- 🌱 Aprendiendo y profundizando en **Angular, Vue, React y TypeScript**.  
+- 👯 Buscando colaborar en proyectos donde pueda aportar en **interfaces modernas y usables**.  
+- 💬 Pregúntame sobre **desarrollo frontend, maquetación responsive, Git/GitHub y prototipado en Figma**.  
+- ⚡ Fun fact: ¡Me encantan los girasoles 🌻 y siempre estoy buscando nuevas formas de combinar tecnología y creatividad!  
+
+---
+
+
+<p align="left">
+   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angular.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" />
+</p>
+
+---
+
+### 🤝 Conecta conmigo  
+
+<a href = "https://www.linkedin.com/in/alyne-regalado/"> <img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href="[https://www.instagram.com/tu_usuario/](https://www.instagram.com/alyne_rm/)"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = "[https://github.com/alyne_regalado](https://github.com/AlyneRegaladoMorales)"> <img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+---
+
+### 📊 Estadísticas  
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyne_regalado&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyne_regalado&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyne_regalado&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=alyne_regalado&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20en%20GitHub&disable_animations=true&theme=tokyonight) |
+
+---
+
+
